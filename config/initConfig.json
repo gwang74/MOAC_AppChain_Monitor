@@ -5,9 +5,9 @@
 		"http://39.98.138.169:8545",
 		"http://39.99.164.232:8545"
 	],
-	"minPeerCount": 15,
-	"stmpHost": "smtp.163.com",
-	"user": "m15855114927@163.com",
-	"pwd": "wgjhell741111",
-	"to": "jhell@qq.com"
+	"minPeerCount": 2,
+	"stmpHost": "",
+	"user": "",
+	"pwd": "",
+	"to": ""
 }
