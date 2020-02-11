@@ -8,7 +8,7 @@
 
 | 参数         |     说明      |
 | ------------ | :-----------: |
-| vnodeUri     | vnode收益地址 |
+| vnodeUri     | 监控vnode |
 | minPeerCount |  警告最小值   |
 | stmpHost     |   SMTP服务    |
 | user         | 发送邮件地址  |
