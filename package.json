@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "monitor": "node js/monitor.js"
+    "monitorBypeer": "node js/monitor.js",
+    "monitorByBlock": "node js/monitor-byBlock.js"
   },
   "repository": {
     "type": "git",

@@ -6,8 +6,12 @@
 		"http://39.99.164.232:8545"
 	],
 	"minPeerCount": 2,
-	"stmpHost": "",
-	"user": "",
-	"pwd": "",
-	"to": ""
+	"stmpHost": "smtp.163.com",
+	"user": "m15855114927@163.com",
+	"pwd": "wgjhell741111",
+	"to": "jhell@qq.com",
+	"subChain": "0x36aa307a4157653eafa47f327b11963ccf174ed4",
+	"scsCount": 9,
+	"vnodeUrl": "http://39.99.178.42:8545",
+	"scsUri": "http://39.99.178.42:8547"
 }
